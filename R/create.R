@@ -30,5 +30,5 @@ create_r <- function() {
 #' @keywords internal
 create_inst <- function() {
   # Needs to include:
-  # - www/styles.css
+  # - www/styles.css with default fonts and style
 }
